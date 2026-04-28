@@ -1,2 +1,16 @@
 # GPA-Credit-AP-Calculation-App
-A Program to calculate GPA/Credit/AP/Planning for College 
+
+
+## 🧠 Project Overview
+
+This project is a **Grade & Academic Planning App** designed to help students:
+
+- Calculate GPA  
+- Track credits toward graduation  
+- Plan academic paths using AI  
+
+---
+
+## 🗺️ System Design (Mindmap)
+
+![Mindmap](./assets/mindmap.png)
