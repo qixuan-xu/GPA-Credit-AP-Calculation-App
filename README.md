@@ -14,3 +14,10 @@ This project is a **Grade & Academic Planning App** designed to help students:
 ## 🗺️ System Design (Mindmap)
 
 ![Mindmap](./assets/mindmap.png)
+
+
+## Structure  
+/Backend  
+  /api  
+/Frontend  
+  /Website  
