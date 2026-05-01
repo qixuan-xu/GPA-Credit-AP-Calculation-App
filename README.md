@@ -18,6 +18,6 @@ This project is a **Grade & Academic Planning App** designed to help students:
 
 ## Structure  
 /Backend  
-  /api  
+.  /api  
 /Frontend  
-  /Website  
+.  /Website  
